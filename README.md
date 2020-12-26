@@ -1,1 +1,2 @@
-# Bouncing-Paper
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
